@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambiente e credenciais - NUNCA versionar tokens
+.env
+*.env
+huggingface_token.txt
+
+# Pesos de modelo (grandes demais para o Git, vão para o Hugging Face Hub)
+*.ckpt
+*.safetensors
+lora_saida/
+
+# Datasets brutos grandes (manter só fontes.csv e legendas.txt versionados)
+dados/imagens_brutas/
+
+# Logs de treino
+wandb/
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db

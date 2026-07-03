@@ -1,0 +1,4 @@
+id_imagem,nome_arquivo,url_origem,autor,licenca,data_coleta,local,observacoes
+001,img_001.jpg,foto propria,Leo,CC0 (autoral),2026-07-05,Congresso Nacional - vista frontal,fotografada com autorizacao de acesso publico
+002,img_002.jpg,foto propria,Leo,CC0 (autoral),2026-07-05,Catedral Metropolitana - fachada externa,
+003,img_003.jpg,https://commons.wikimedia.org/wiki/EXEMPLO,Nome do autor original,CC-BY-SA 4.0,2026-07-06,Palacio do Itamaraty,usar somente se foto propria nao for possivel
