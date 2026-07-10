@@ -1,4 +1,51 @@
 id_imagem,nome_arquivo,url_origem,autor,licenca,data_coleta,local,observacoes
-001,img_001.jpg,foto propria,Leo,CC0 (autoral),2026-07-05,Congresso Nacional - vista frontal,fotografada com autorizacao de acesso publico
-002,img_002.jpg,foto propria,Leo,CC0 (autoral),2026-07-05,Catedral Metropolitana - fachada externa,
-003,img_003.jpg,https://commons.wikimedia.org/wiki/EXEMPLO,Nome do autor original,CC-BY-SA 4.0,2026-07-06,Palacio do Itamaraty,usar somente se foto propria nao for possivel
+1,img_001.jpg,https://commons.wikimedia.org/wiki/File:Planalto_panorama.jpg,Michel Temer,CC BY 2.0,4-Jul-26,Palácio do Planalto,Dia
+2,img_002.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Planalto_(8721928846).jpg,Leandro Neumann Ciuffo,CC BY 2.0,5-Jul-26,Palácio do Planalto,Noite
+3,img_003.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Nereu_Ramos.jpg,Luciana Herberts,CC BY 2.0,5-Jul-26,Palácio do Congresso Nacional,Durante o dia
+4,img_004.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Nereu_Ramos_iluminado.jpg,Senado Federal,CC BY 2.0,6-Jul-26,Palácio do Congresso Nacional,"Durante a noite, iluminado"
+5,img_005.jpg,https://commons.wikimedia.org/wiki/File:Brasilia_Catedral_08_2005_03.jpg,Mariordo (Mario Roberto Durán Ortiz),CC BY-SA 4.0,6-Jul-26,Catedral Metropolitana,Externo dia
+6,img_006.jpg,https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Bras%C3%ADlia_-_vis%C3%A3o_noturna_01.jpg,Filipo Tardim,CC BY-SA 4.0,6-Jul-26,Catedral Metropolitana,Externo noite
+7,img_007.jpg,https://commons.wikimedia.org/wiki/File:Brasilia_DF_Brasil_-_Catedral_Metropolitana_-_panoramio.jpg,Josue Marinho,CC BY 3.0,6-Jul-26,Catedral Metropolitana,Interno vitral
+8,img_008.jpg,"https://commons.wikimedia.org/wiki/File:Brasilia,_Catedral_Metropolitana,_vista_exterior_com_campan%C3%A1rio.jpg",Giorgioglobe,CC BY-SA 4.0,6-Jul-26,Catedral Metropolitana,Externo outro angulo
+9,img_009.jpg,"https://commons.wikimedia.org/wiki/File:Surrealista,_Pal%C3%A1cio_do_Itamaraty,_Bras%C3%ADlia,_Brasil.jpg",Lou Fernando,CC BY-SA 4.0,6-Jul-26,Palácio do Itamaraty,Externo dia 
+10,img_010.jpg,"https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Itamaraty,_Bras%C3%ADlia,_Brasil.jpg",Lou Fernando,CC BY-SA 4.0,6-Jul-26,Palácio do Itamaraty,Externo dia outro angulo
+11,img_011.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Itamaraty_-_Brasilia._(15714432284).jpg,Marinelson Almeida,CC BY 2.0,6-Jul-26,Palácio do Itamaraty,Externo dia frente completo
+12,img_012.jpg,"https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Itamaraty,_Bras%C3%ADlia,_noturna.jpg",Dlaurini,CC BY-SA 4.0,6-Jul-26,Palácio do Itamaraty,Externo noite
+13,img_013.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_da_Justi%C3%A7a_-_Brasilia._(15546175362).jpg,Marinelson Almeida,CC BY 2.0,6-Jul-26,Palácio da Justiça,Externo dia
+14,img_014.jpg,https://commons.wikimedia.org/wiki/File:Webysther_20180212163252_-_Pal%C3%A1cio_da_Justi%C3%A7a.jpg,Webysther,CC BY-SA 4.0,6-Jul-26,Palácio da Justiça,Externo dia completo
+15,img_015.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_da_Justi%C3%A7a_em_Bras%C3%ADlia.JPG,Joehawkins,CC BY-SA 4.0,6-Jul-26,Palácio da Justiça,Externo dia outro angulo
+16,img_016.jpg,https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Justi%C3%A7a_reflecao.jpg,Dasfour2022,CC BY-SA 4.0,6-Jul-26,Palácio da Justiça,Externo noite - reflexo
+17,img_017.jpg,https://commons.wikimedia.org/wiki/File:Memorial_J_Kubitschek_Brasilia_2009.jpg,Cayambe,CC BY-SA 3.0,6-Jul-26,Memorial JK,Externo dia
+18,img_018.jpg,https://commons.wikimedia.org/wiki/File:Memorial_JK_-_Brasilia_-_DSC00606.JPG,Daderot,CC0,6-Jul-26,Memorial JK,Detalhe externo dia
+19,img_019.jpg,https://commons.wikimedia.org/wiki/File:Memorial_JK_-_Brasilia_-_DSC00603.JPG,Daderot,CC0,6-Jul-26,Memorial JK,Detalhe externo dia outro
+20,img_020.jpg,https://commons.wikimedia.org/wiki/File:Memorial_JK_(5944949274)_(3).jpg,Leandro Neumann Ciuffo,CC BY 2.0,6-Jul-26,Memorial JK,Externo dia outro angulo
+21,img_021.jpg,https://commons.wikimedia.org/wiki/File:Teatro_Nacional_Cl%C3%A1udio_Santoro_-_Brasilia_-_DSC00320.JPG,Daderot,CC0,6-Jul-26,Teatro Nacional Cláudio Santoro,Externo dia
+22,img_022.jpg,https://commons.wikimedia.org/wiki/File:Teatro_Nacional_Cl%C3%A1udio_Santoro_-_Brasilia_-_DSC00311.JPG,Daderot,CC0,6-Jul-26,Teatro Nacional Cláudio Santoro,Externo dia outro angulo
+23,img_023.jpg,https://commons.wikimedia.org/wiki/File:Teatro_Nacional_Cl%C3%A1udio_Santoro_-_Brasilia_-_DSC00302.JPG,Daderot,CC0,6-Jul-26,Teatro Nacional Cláudio Santoro,Externo dia parede cubos
+24,img_024.jpg,https://commons.wikimedia.org/wiki/File:Teatro_Nacional_Cl%C3%A1udio_Santoro_-_Bras%C3%ADlia_-_20150607115738.jpg,Donatas Dabravolskas,CC BY-SA 4.0,6-Jul-26,Teatro Nacional Cláudio Santoro,Detalhe parede cubos
+25,img_025.jpg,https://commons.wikimedia.org/wiki/File:Teatro_Nacional_Cl%C3%A1udio_Santoro_-_Bras%C3%ADlia_-_20150607115909.jpg,Donatas Dabravolskas,CC BY-SA 4.0,6-Jul-26,Teatro Nacional Cláudio Santoro,Detalhe parede cubos
+26,img_026.jpg,https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_Museu_Nacional_Honestino_Guimar%C3%A3es.jpg,Cayambe,CC BY-SA 3.0,7-Jul-26,Museu Nacional Honestino Guimarães,Externo dia
+27,img_027.jpg,https://commons.wikimedia.org/wiki/File:Museu_Nacional_Honestino_Guimar%C3%A3es_-_DSC00010.JPG,Daderot,CC0,7-Jul-26,Museu Nacional Honestino Guimarães,Externo dia outro angulo
+28,img_028.jpg,"https://commons.wikimedia.org/wiki/File:Interior,_Museu_Nacional_Honestino_Guimar%C3%A3es_-_DSC00031.JPG",Daderot,CC0,7-Jul-26,Museu Nacional Honestino Guimarães,Interno
+29,img_029.jpg,"https://commons.wikimedia.org/wiki/File:Interior,_Museu_Nacional_Honestino_Guimar%C3%A3es_-_DSC00036.JPG",Daderot,CC0,7-Jul-26,Museu Nacional Honestino Guimarães,Interno outro angulo
+30,img_030.jpg,https://commons.wikimedia.org/wiki/File:Nossa_Bras%C3%ADlia_-_Museu_Nacional_Honestino_Guimar%C3%A3es_(16582110743).jpg,Agência Brasília,CC BY 2.0,7-Jul-26,Museu Nacional Honestino Guimarães,Externo noite
+31,img_031.jpg,https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital.JPG,Matheusgf78,CC BY-SA 3.0,7-Jul-26,Torre de TV Digital,Externo dia
+32,img_032.jpg,https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital_no_amanhecer.JPG,Matheusgf78,CC BY-SA 3.0,7-Jul-26,Torre de TV Digital,Externo amanhecer
+33,img_033.jpg,https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital_de_Bras%C3%ADlia_(14541658511).jpg,Mercado Viagens,CC BY 2.0,7-Jul-26,Torre de TV Digital,Externo dia detalhe
+34,img_034.jpg,https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital_de_Bras%C3%ADlia_(14545050305).jpg,Mercado Viagens,CC BY 2.0,7-Jul-26,Torre de TV Digital,Externo dia detalhe outro angulo
+35,img_035.jpg,https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Torre_de_TV_Digital.jpg,Sintegrity,CC BY-SA 4.0,7-Jul-26,Torre de TV Digital,Externo noite
+36,img_036.jpg,https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital_finaliza_obras_para_vistoria_(19196870588).jpg,Agência Brasília,CC BY 2.0,7-Jul-26,Torre de TV Digital,Interno dia
+37,img_037.jpg,https://commons.wikimedia.org/wiki/File:Pante%C3%A3o_da_P%C3%A1tria_e_da_Liberdade_Tancredo_Neves_-_DSC00281.JPG,Daderot,CC0,7-Jul-26,Panteão da Pátria Tancredo Neves,Externo dia
+38,img_038.jpg,https://commons.wikimedia.org/wiki/File:Pante%C3%A3o_da_P%C3%A1tria_e_da_Liberdade_Tancredo_Neves_-_DSC00279.JPG,Daderot,CC0,7-Jul-26,Panteão da Pátria Tancredo Neves,Externo dia outro angulo
+39,img_039.jpg,https://commons.wikimedia.org/wiki/File:PANTE%C3%83O_DA_P%C3%81TRIA_BRAS%C3%8DLIA_DF_BRASIL_ARLEY_DA_CRUZ.jpg,Arley da Cruz,CC BY-SA 4.0,7-Jul-26,Panteão da Pátria Tancredo Neves,Externo dia outro angulo
+40,img_040.jpg,https://commons.wikimedia.org/wiki/File:Memorial_Tancredo_Neves_-_Brasilia_(15518265898).jpg,Marinelson Almeida,CC BY 2.0,7-Jul-26,Panteão da Pátria Tancredo Neves,Externo dia detalhes
+41,img_041.jpg,https://commons.wikimedia.org/wiki/File:Supreme_Federal_Court_-_Statue.jpg,Dasfour2022,CC BY-SA 4.0,7-Jul-26,STF - Supremo Tribunal Federal,Estátua da justiça
+42,img_042.jpg,https://commons.wikimedia.org/wiki/File:Supremo_Tribunal_Federal_por_Henrique_Goldenstein_(01).jpg,Falcão Alado,CC BY-SA 4.0,7-Jul-26,STF - Supremo Tribunal Federal,Externo noite iluminado
+43,img_043.jpg,"https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios,_Bras%C3%ADlia_DF_04_2006.jpg",Mario Roberto Durán Ortiz,Public Domain,7-Jul-26,Esplanada dos Ministérios ,Dia frente
+44,img_044.jpg,https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_-_Brasilia_-_DSC00327.JPG,Daderot,CC0,7-Jul-26,Esplanada dos Ministérios ,Dia outro angulo
+45,img_045.jpg,https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_-_Brasilia_-_DSC00014.JPG,Daderot,CC0,7-Jul-26,Esplanada dos Ministérios ,Dia outro angulo
+46,img_046.jpg,https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_(31039229571).jpg,Senado Federal,CC BY 2.0,7-Jul-26,Esplanada dos Ministérios ,Dia outro angulo
+47,img_047.jpg,https://commons.wikimedia.org/wiki/File:Esplanada_dos_Ministerios_a_noite.jpg,Dasfour2022,CC BY-SA 4.0,7-Jul-26,Esplanada dos Ministérios ,Noite frente
+48,img_048.jpg,https://commons.wikimedia.org/wiki/File:Brasilia_DF_Brasil_-_Ponte_JK_-_panoramio_(1).jpg,Josue Marinho,CC BY 3.0,7-Jul-26,Ponte JK,Dia
+49,img_049.jpg,"https://commons.wikimedia.org/wiki/File:Ponte_JK,_Brasilia_(34229869955).jpg",krishna naudin,CC BY-SA 2.0,7-Jul-26,Ponte JK,Por do sol
+50,img_050.jpg,https://commons.wikimedia.org/wiki/File:Ponte_JK_(8726933858).jpg,Leandro Neumann Ciuffo,CC BY 2.0,7-Jul-26,Ponte JK,Noite
