@@ -1,0 +1,50 @@
+img_001.jpg,estilo_brasilia, fachada do Palácio do Planalto de dia, colunas brancas curvas sustentando a marquise, fachada de vidro ao fundo, céu azul e jardim florido em primeiro plano
+img_002.jpg,estilo_brasilia, Palácio do Planalto à noite, colunas brancas curvas iluminadas contra o céu escuro, marquise em destaque
+img_003.jpg,estilo_brasilia, Congresso Nacional de dia, duas torres gêmeas ao centro, cúpula da Câmara dos Deputados em formato de tigela à direita, cúpula do Senado invertida e côncava à esquerda, céu azul com nuvens
+img_004.jpg,estilo_brasilia, Congresso Nacional à noite iluminado em verde, torres e cúpulas refletidas no espelho d'água
+img_005.jpg,estilo_brasilia, Catedral Metropolitana de dia, coroa de colunas de concreto curvas convergindo para cima com cruz no topo, céu azul limpo
+img_006.jpg,estilo_brasilia, Catedral Metropolitana à noite vista de cima, estrutura translúcida iluminada em azul e verde, cidade ao fundo
+img_007.jpg,estilo_brasilia, interior da Catedral Metropolitana, vitrais coloridos em azul e verde formando ondas, escultura de anjo suspensa, crucifixo ao centro
+img_008.jpg,estilo_brasilia, Catedral Metropolitana de dia em ângulo lateral, campanário com sinos ao lado das colunas curvas brancas, céu nublado
+img_009.jpg,estilo_brasilia, Palácio do Itamaraty, arcadas refletidas no espelho d'água, escultura branca Meteoro flutuando, plantas aquáticas
+img_010.jpg,estilo_brasilia, Palácio do Itamaraty em outro ângulo, arcos de concreto e fachada de vidro, jardim tropical com bananeiras sobre ilhas no espelho d'água
+img_011.jpg,estilo_brasilia, Palácio do Itamaraty de dia, fachada de arcos vista de longe, céu com nuvens
+img_012.jpg,estilo_brasilia, Palácio do Itamaraty ao entardecer, arcos iluminados em dourado refletidos no espelho d'água, céu azul escuro
+img_013.jpg,estilo_brasilia, Palácio da Justiça de dia, estátua da Justiça em pedra à frente, marquise curva de concreto branco, fachada de vidro ao fundo, céu azul com nuvens
+img_014.jpg,estilo_brasilia, Palácio da Justiça de dia em outro ângulo, arcadas de concreto com as características "cortinas" curvas na base, bandeiras do Brasil e do órgão hasteadas, gramado em primeiro plano
+img_015.jpg,estilo_brasilia, Palácio da Justiça de dia, placa de identificação do prédio, arcadas de concreto e cortinas curvas na base, céu nublado
+img_016.jpg,estilo_brasilia, Palácio da Justiça à noite, arcadas e cortinas de concreto iluminadas e refletidas no espelho d'água escuro
+img_017.jpg,estilo_brasilia, Memorial JK de dia, braço curvo de concreto erguendo a estátua de Juscelino Kubitschek, bandeira do Distrito Federal, céu azul, estrutura ovalada branca ao fundo
+img_018.jpg,estilo_brasilia, detalhe do Memorial JK, estrutura branca curva em formato de cápsula suspensa sobre parede de mármore
+img_019.jpg,estilo_brasilia, detalhe do Memorial JK, parede triangular revestida em mármore branco formando uma pirâmide, grama em primeiro plano
+img_020.jpg,estilo_brasilia, Memorial JK ao entardecer, estátua sobre pilar curvo refletida no espelho d'água, luz dourada, estrutura ovalada branca ao fundo
+img_021.jpg,estilo_brasilia, Teatro Nacional Cláudio Santoro de dia, visto de longe, formato piramidal trapezoidal, prédio alto ao lado, carros em primeiro plano
+img_022.jpg,estilo_brasilia, Teatro Nacional Cláudio Santoro de dia em ângulo mais próximo, forma piramidal com painel de cubos de concreto na lateral, vegetação tropical
+img_023.jpg,estilo_brasilia, Teatro Nacional Cláudio Santoro de dia, vista completa do painel de relevos cúbicos de concreto que cobre a fachada piramidal
+img_024.jpg,estilo_brasilia, detalhe do painel de relevos cúbicos de concreto do Teatro Nacional, padrão geométrico repetitivo em close
+img_025.jpg,estilo_brasilia, detalhe do painel de relevos cúbicos de concreto do Teatro Nacional em outro ângulo, luz lateral realçando as sombras dos volumes
+img_026.jpg,estilo_brasilia, Museu Nacional Honestino Guimarães de dia, grande cúpula branca hemisférica, rampa curva de acesso, Catedral Metropolitana visível ao fundo à esquerda, céu azul com nuvens
+img_027.jpg,estilo_brasilia, Museu Nacional Honestino Guimarães de dia em ângulo mais próximo, rampa curva com entrada amarela, espelho d'água refletindo a cúpula, pessoas caminhando
+img_028.jpg,estilo_brasilia, interior do Museu Nacional, mezanino curvo branco em espiral, teto abobadado perfurado por pontos de luz, obras de arte expostas
+img_029.jpg,estilo_brasilia, interior do Museu Nacional, galeria de exposição com paredes curvas brancas, teto abobadado com iluminação pontual, obras de arte na parede
+img_030.jpg,estilo_brasilia, Museu Nacional à noite, cúpula branca iluminada refletida no espelho d'água escuro, silhuetas de pessoas na rampa
+img_031.jpg,estilo_brasilia, Torre de TV Digital de dia, torre afunilada de concreto branco com dois mirantes em formato de disco, antena metálica vermelha e branca no topo, céu azul
+img_032.jpg,estilo_brasilia, Torre de TV Digital ao amanhecer, estrutura iluminada em tom verde-água contra o céu em degradê laranja e azul
+img_033.jpg,estilo_brasilia, detalhe da Torre de TV Digital de dia, mirante em disco visto de baixo com estrutura de andaimes na coluna central, céu com nuvens
+img_034.jpg,estilo_brasilia, detalhe da Torre de TV Digital em outro ângulo, mirante em disco com cobertura em mosaico de vidro azulado, céu azul intenso
+img_035.jpg,estilo_brasilia, Torre de TV Digital à noite vista de longe, silhueta da torre iluminada contra o céu escuro, luzes da cidade ao fundo
+img_036.jpg,estilo_brasilia, interior do mirante da Torre de TV Digital de dia, janelas ovais na parede curva branca, vista do Lago Paranoá e vegetação de Cerrado ao fundo
+img_037.jpg,estilo_brasilia, Panteão da Pátria Tancredo Neves de dia, estrutura branca angular em forma de ave estilizada, painéis triangulares de mármore, carros estacionados em frente
+img_038.jpg,estilo_brasilia, Panteão da Pátria Tancredo Neves de dia em outro ângulo, placa de identificação do monumento, formas triangulares brancas emergindo entre a vegetação
+img_039.jpg,estilo_brasilia, Panteão da Pátria Tancredo Neves de dia visto de longe, esculturas de figuras humanas estilizadas ao lado, carros estacionados na praça
+img_040.jpg,estilo_brasilia, detalhe do Panteão da Pátria, painel vazado com recortes orgânicos na fachada triangular inclinada, parede curva de mármore branco ao lado
+img_041.jpg,estilo_brasilia, estátua da Justiça em pedra na Praça dos Três Poderes junto ao STF, figura encapuzada segurando espada e balança, parede de colunas curvas iluminadas em amarelo ao fundo
+img_042.jpg,estilo_brasilia, fachada do STF à noite iluminada em verde, escultura dourada de figuras verticais ao lado, rastros de luz de carros em longa exposição
+img_043.jpg,estilo_brasilia, vista aérea da Esplanada dos Ministérios de dia, gramado central entre prédios espelhados verdes, Congresso Nacional e cúpula do Museu Nacional ao fundo
+img_044.jpg,estilo_brasilia, fileira de prédios dos ministérios de dia, fachadas verdes espelhadas repetidas, árvores em primeiro plano, céu com nuvens
+img_045.jpg,estilo_brasilia, fileira de prédios dos ministérios de dia, fachadas verdes claras refletidas em espelho d'água em primeiro plano
+img_046.jpg,estilo_brasilia, vista aérea panorâmica da Esplanada dos Ministérios, gramado e caminhos em X, prédios espelhados dos dois lados, Congresso Nacional e lago ao fundo à direita
+img_047.jpg,estilo_brasilia, Esplanada dos Ministérios à noite, lua cheia alaranjada sobre as torres do Congresso Nacional, avenidas iluminadas por rastros de luz de carros
+img_048.jpg,estilo_brasilia, Ponte JK de dia, três arcos brancos entrelaçados sobre o Lago Paranoá, cabos de sustentação em X, casas na margem ao fundo
+img_049.jpg,estilo_brasilia, Ponte JK ao pôr do sol, silhueta de um arco branco contra céu em tons de rosa e laranja intensos, palmeiras em primeiro plano
+img_050.jpg,estilo_brasilia, Ponte JK à noite, arcos iluminados em verde e dourado refletidos no Lago Paranoá, luzes da cidade ao fundo
