@@ -1,0 +1,10 @@
+gradio
+spaces
+diffusers
+transformers
+accelerate
+peft
+torch
+safetensors
+sentencepiece
+scipy
