@@ -1,6 +1,6 @@
 # Ateliê Generativo — Arquitetura Modernista de Brasília
 
-Projeto final da disciplina Inteligência Artificial Generativa e Modelos Multimodais (UniCEUB), desenvolvido individualmente por Leonardo Coutinho.
+Projeto final da disciplina Modelos Multimodais (UniCEUB), desenvolvido individualmente por Leonardo Coutinho.
 
 ## Visão geral
 
